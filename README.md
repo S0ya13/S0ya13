@@ -10,11 +10,11 @@
    - 💻 Very familiar with such programming languages as Python, SQL, Lua, C#.
    - 🔭 Currently a first year student at Vistula University, majoring in computer engineering.
 
-For more information I welcome you to visit my linkedin.
+> For more information I welcome you to visit my linkedin.
 ## How to contact:
 - ✉️ Email: oj.savchak@gmail.com
-- 💼 LinkedIn: linkedin.com/in/s0ya/
+- 💼 LinkedIn: [linkedin.com/in/s0ya/](https://www.linkedin.com/in/s0ya/)
 - 💬 Discord: #s0ya13
-- 📱 Telegram: https://t.me/S0ya13
+- 📱 Telegram: [S0ya13](https://t.me/S0ya13)
 
-Thanks. 😊 
+Thanks. 😊
